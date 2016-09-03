@@ -71,6 +71,7 @@ act_lab_mean_stdev_subset <- merge(mean_stdev_subset, activityLabels,
                                                  by='activityId',
                                                      all.x=TRUE)
 
+write.table(act_lab_mean_stdev_subset, "TidyDataSetone.txt", row.name=FALSE)
 
 ##~~~~~~~~~~~~~~~~~CREATE TIDY DATASET with the ~~~~~~~~~~~~~~~~~~~~~~~~~
 #~~~~~~~~~~~~AVERAGE OF EACH VARIABLE for each activity and subject~~~~~~
