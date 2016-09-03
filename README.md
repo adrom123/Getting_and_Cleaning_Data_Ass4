@@ -4,7 +4,8 @@
  1) a tidy data set as described in the assignment instructions (See link below)
  https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
  
- 2) a link to a Github repository with your script for performing the analysis,
+ 2) a link to a Github repository with your script for performing the analysis
+ 
  3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md
  
 ## Link to Raw Data 
@@ -16,4 +17,5 @@
  
 ## Instructions
  a) Load R or RStudio 
+ 
  b) Run run_script.R
