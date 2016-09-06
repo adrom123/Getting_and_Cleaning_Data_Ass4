@@ -10,7 +10,8 @@
  
 
 ## TRANSFORMATION STEPS
- The following run_analysis.R script will implement the following steps;
+ The run_analysis.R script will implement the following steps;
+ 
 1) The source data was downloaded from the link supplied
 
 2) The data was unzipped
