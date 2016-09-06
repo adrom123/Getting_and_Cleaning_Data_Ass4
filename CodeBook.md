@@ -55,7 +55,7 @@ activityId - The activity that the subject was doing at the time of the measurem
 
 ## Activity Labels
 
-Activity          Number Description
+Activity                 Number       Description
 
 WALKING             1:  Walking during the test
 
