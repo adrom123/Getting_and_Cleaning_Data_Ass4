@@ -11,7 +11,7 @@ activityId - The activity that the subject was doing at the time of the measurem
 
 ## Source Data Variables
 
-[1] "subjectId"                       "activityId"                     
+[1] "activityId"                      "subjectId"                      
  [3] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [5] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
  [7] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
@@ -51,11 +51,12 @@ activityId - The activity that the subject was doing at the time of the measurem
 [75] "fBodyBodyAccJerkMag-meanFreq()"  "fBodyBodyGyroMag-mean()"        
 [77] "fBodyBodyGyroMag-std()"          "fBodyBodyGyroMag-meanFreq()"    
 [79] "fBodyBodyGyroJerkMag-mean()"     "fBodyBodyGyroJerkMag-std()"     
-[81] "fBodyBodyGyroJerkMag-meanFreq()" "activityType"    
+[81] "fBodyBodyGyroJerkMag-meanFreq()" "activityType"                   
+[83] "Activity"               
 
 ## Activity Labels
 
-Activity                 Number       Description
+Activity                 Number (activityType)      Description
 
 WALKING                  1:  Walking during the test
 
