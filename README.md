@@ -1,5 +1,9 @@
 # Getting_and_Cleaning_Data_Assignment 4
 
+## Purpose
+
+TO prepare a tidy dataset than can be used for further analysis
+
 ## Deliverables
  1) a tidy data set as described in the assignment instructions (See link below)
  https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project
