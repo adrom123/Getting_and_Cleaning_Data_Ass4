@@ -9,7 +9,7 @@
  3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md
  
 
- ## TRANSFORMATION STEPS
+## TRANSFORMATION STEPS
  The following run_analysis.R script will implement the following steps;
 1) The source data was downloaded from the link supplied
 
