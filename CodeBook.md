@@ -57,14 +57,14 @@ activityId - The activity that the subject was doing at the time of the measurem
 
 Activity                 Number       Description
 
-WALKING             1:  Walking during the test
+WALKING                  1:  Walking during the test
 
-WALKING_UPSTAIRS    2:  Walking up a staircase during the test
+WALKING_UPSTAIRS         2:  Walking up a staircase during the test
 
-WALKING_DOWNSTAIRS  3:  Walking down a staircase during the test
+WALKING_DOWNSTAIRS       3:  Walking down a staircase during the test
 
-SITTING             4:  Sitting during the test
+SITTING                  4:  Sitting during the test
 
-STANDING            5:  Standing during the test
+STANDING                 5:  Standing during the test
 
-LAYING              6:  Laying down during the test
+LAYING                   6:  Laying down during the test
